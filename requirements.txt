@@ -1,3 +1,7 @@
+# requirements.txt
+Snoflake-snowpark-phyton
+streamlit
+
 name: app_environment
 channels:
   - snowflake
