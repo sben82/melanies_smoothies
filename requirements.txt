@@ -1,5 +1,5 @@
 # requirements.txt
-Snoflake-snowpark-phyton
+snowflake-snowpark-python
 streamlit
 
 name: app_environment
